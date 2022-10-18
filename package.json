@@ -1,5 +1,5 @@
 {
-  "name": "@flat/lame",
+  "name": "lame-bind",
   "description": "NodeJS native bindings to libmp3lame & libmpg123.",
   "keywords": [
     "lame",
@@ -15,10 +15,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FlatIO/node-lame.git"
+    "url": "https://github.com/ocekaye/lame-bind.git"
   },
   "main": "./index.js",
-  "types": "./index.d.ts",
   "dependencies": {
     "bindings": "^1.5.0",
     "debug": "^4.3.4",
